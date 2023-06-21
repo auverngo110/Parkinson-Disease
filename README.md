@@ -6,7 +6,7 @@ Max A. Little, Patrick E. McSharry, Eric J. Hunter, Lorraine O. Ramig (2008), 'S
 ## Git repo cloning :
 
 ```
-gh repo clone ScaleMind-C9308A/Sperm-Research
+gh repo clone HaNgoThu1002/Parkinson-Disease
 ```
 ## Active enviroment
 ```
